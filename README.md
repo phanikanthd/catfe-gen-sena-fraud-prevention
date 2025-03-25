@@ -16,17 +16,17 @@
 # 🎯 Introduction
 Reconciliation often involves comparing large datasets from different sources (e.g., financial transactions, inventory records) to identify mismatches or discrepancies. Traditional methods rely on rule-based algorithms or manual checks, which can be time-consuming and error-prone. Similarly, anomaly detection for fraud, errors, or deviations requires sophisticated pattern recognition and adaptive learning.
 
-#- 🎥 Demo
+# 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
 
-#- 💡 Inspiration
+# 💡 Inspiration
 Its a genuine inspiration from our hackathon 2025 initiative, to produce some good solutions uisng latest gen AI.
 
-#- ⚙️ What It Does
+# ⚙️ What It Does
 -Automate the reconciliation process.
 
 -Enhance accuracy in identifying mismatches and anomalies.
@@ -35,7 +35,7 @@ Its a genuine inspiration from our hackathon 2025 initiative, to produce some go
 
 -Provide actionable insights for faster resolution.
 
-#- 🛠️ How We Built It
+# 🛠️ How We Built It
 Generative AI-Powered Framework
 A. Data Preprocessing
 
@@ -65,10 +65,10 @@ Use Gen AI to generate summaries or explanations for flagged anomalies (e.g., "T
 
 Generate suggestions for resolving discrepancies (e.g., "Consider verifying transaction XYZ from source A").
 
-#- 🚧 Challenges We Faced
+# 🚧 Challenges We Faced
 How to present the agent using visualisations. 
 
-#- 🏃 How to Run
+# 🏃 How to Run
 1. Clone the repository  
    ```sh
    git clone https://github.com/your-repo.git
@@ -82,12 +82,12 @@ How to present the agent using visualisations.
    npm start  # or python app.py
    ```
 
-#- 🏗️ Tech Stack
+# 🏗️ Tech Stack
 - 🔹 Frontend: Scikit
 - 🔹 Backend: Python
 - 🔹 Other: OpenAI API -ChatGPT
 
-#- 👥 Team
+# 👥 Team
 - Phani Kanth Daliparthi
 - Tarun Kumar Kollipara
 - Sruthi Malladi
