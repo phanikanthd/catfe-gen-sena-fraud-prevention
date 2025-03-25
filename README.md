@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Introduction
+# 🎯 Introduction
 Reconciliation often involves comparing large datasets from different sources (e.g., financial transactions, inventory records) to identify mismatches or discrepancies. Traditional methods rely on rule-based algorithms or manual checks, which can be time-consuming and error-prone. Similarly, anomaly detection for fraud, errors, or deviations requires sophisticated pattern recognition and adaptive learning.
 
 ## 🎥 Demo
